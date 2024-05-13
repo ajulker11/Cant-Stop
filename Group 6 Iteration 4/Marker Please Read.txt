@@ -1,0 +1,12 @@
+color vision deficiency - we chose our color palette such that it complies and provides for all color blindnesses. Meaning our default colors 
+provide enough difference in colors for all color blindness so no need to chose a specific setting
+
+Load game button doesnt do anything but create a new game 
+
+save game button doesnt do anything as well
+
+AI option in player settings also does nothing 
+
+the player cubes on a square are as follows the top one is player 1 and the right one is player 2 and bottom one is player 3 and left one is player 4 
+
+Sometimes to place or advance white cubes, you may need to click more than once until white cube appears

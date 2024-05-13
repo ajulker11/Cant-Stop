@@ -1,0 +1,3 @@
+Hello, our code only works on the assumption that the user knows and follows the rules of the game e.g User can realistically place white cubes in all columns but assuming they know the rules, they would only place white cubes in 3 columns based on combination selected. Sometimes the user needs to click twice to advance cubes.
+
+To run the jar, just open the jar with java  or run from command line using java -jar RunnableJar.jar
